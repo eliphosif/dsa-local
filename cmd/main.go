@@ -1,8 +1,8 @@
 package main
 
 import (
-	linearsearch "dsa-local/linear-search"
-	"dsa-local/problems"
+	linearsearch "dsa-local/ds/linear-search"
+	problems "dsa-local/lc-problems"
 	"fmt"
 )
 
