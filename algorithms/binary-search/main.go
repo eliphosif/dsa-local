@@ -1,13 +1,13 @@
 package binarysearch
 
-func Binarysearch(arr []int, target int) int {
-
+func BinarySearch(arr []int, target int) int {
 	start := 0
 	end := len(arr) - 1
 
-	//find if the arr is asending or desending
-	asen := arr[end] > arr[start]
+	return binarySearch(arr, start, end, target, arr[end] > arr[start])
+}
 
+func binarySearch(arr []int, start int, end int, target int, isAscendingArray bool) int {
 	for start <= end {
 		mid := start + ((end - start) / 2)
 
@@ -15,7 +15,7 @@ func Binarysearch(arr []int, target int) int {
 			return mid
 		}
 
-		if asen {
+		if isAscendingArray {
 			if arr[mid] < target {
 				start = mid + 1
 			} else {

@@ -21,7 +21,7 @@ func main() {
 
 	target := 5
 
-	fmt.Println(binarysearch.Binarysearch(arr, target))
+	fmt.Println(binarysearch.BinarySearch(arr, target))
 
 	letters := []byte{'a', 'b', 'c', 'd', 'y'}
 	targetByte := 'c'
