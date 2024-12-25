@@ -4,6 +4,7 @@ import (
 	binarysearch "dsa-local/data-structures/binary-search"
 	linearsearch "dsa-local/data-structures/linear-search"
 	problems "dsa-local/lc-problems"
+	"dsa-local/miscellaneous"
 	"fmt"
 )
 
@@ -18,7 +19,7 @@ func main() {
 
 	fmt.Println(problems.MaximumWealthUsingChan(input))
 
-	target := 500
+	target := 5
 
 	fmt.Println(binarysearch.Binarysearch(arr, target))
 
@@ -30,9 +31,20 @@ func main() {
 	targetByte = 'z'
 	fmt.Println(string(problems.NextGreatestLetter(letters, byte(targetByte))))
 
-	inputNumbers := []int{2, 2} //4, 5, 7, 7, 8, 8, 8, 8, 8, 8, 10}
-	targetNumber := 2
+	inputNumbers := []int{2, 3, 4, 5, 7, 9, 10}
+	targetNumber := 9
 
 	fmt.Println(problems.SearchRange(inputNumbers, targetNumber))
+
+	fmt.Println(miscellaneous.FindElementInfiniteArray(inputNumbers, target))
+
+	mountainArr := []int{2, 3, 4, 5, 7, 9, 10, 5, 3, 1}
+	fmt.Println(mountainArr[problems.PeakIndexInMountainArray2(mountainArr)])
+
+	mountainArr2 := problems.MountainArray{
+		Array: []int{1, 2, 3, 4, 5, 3, 1},
+	}
+
+	fmt.Println(problems.FindInMountainArray(2, &mountainArr2))
 
 }
