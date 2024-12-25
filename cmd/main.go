@@ -47,4 +47,8 @@ func main() {
 
 	fmt.Println(problems.FindInMountainArray(2, &mountainArr2))
 
+	var inputPivot = []int{4, 5, 6, 7, 10, 0, 1, 2}
+
+	fmt.Println(problems.FindPivot(inputPivot))
+
 }
