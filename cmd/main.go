@@ -1,8 +1,8 @@
 package main
 
 import (
-	binarysearch "dsa-local/data-structures/binary-search"
-	linearsearch "dsa-local/data-structures/linear-search"
+	binarysearch "dsa-local/algorithms/binary-search"
+	linearsearch "dsa-local/algorithms/linear-search"
 	problems "dsa-local/lc-problems"
 	"dsa-local/miscellaneous"
 	"fmt"
