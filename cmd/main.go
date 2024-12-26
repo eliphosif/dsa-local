@@ -51,4 +51,7 @@ func main() {
 
 	fmt.Println(problems.FindPivot(inputPivot))
 
+	splitArrayInput := []int{7, 2, 5, 10, 8}
+	fmt.Println(problems.SplitArray(splitArrayInput, 2))
+
 }

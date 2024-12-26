@@ -1,0 +1,25 @@
+
+from the girl----------------------
+
+desing a tiny URL system
+dont we need load balencer?
+
+what are all the KPIs that you keep for refernece
+
+
+from the guy--------------
+
+when you type url in hte browser what all will happen?
+
+
+give an linked list you have to find if it's cirular linkedlist or not
+nd node:
+
+  +---+    +---+    +---+    +---+    +---+    +---+    +---+    +---+
+  | 1 | -> | 2 | -> | 3 | -> | 4 | -> | 5 | -> | 6 | -> | 7 | -> | 8 |
+  +---+    +---+    +---+    +---+    +---+    +---+    +---+    +---+
+              ^                                                  |
+              |                                                  v
+              +--------------------------------------------------+
+			      |
+

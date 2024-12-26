@@ -1,0 +1,59 @@
+general-------
+do you know service mesh
+
+SQL---------
+how well you versed with SQL quries
+what is subqurey and what is join 
+when to use what
+
+Docker-------
+what is the mandetory thing in dokcer file
+what is the difference between entry point and cmd
+why do we need stage, when do you use stage what are the usecases of cerating stages in dockerfile
+
+what is Add in docker file
+you are building a go service, I dont need the golibarries, in the final build, how can we do that
+
+how will docker know what is the entrypoint of your service?
+
+
+k8s-----------------
+what are types of deployments supported by k8s
+-stateful set, deployment stet, demon set ...
+when to use deployment set and when to use which type
+
+what are the types of services we have in k8s
+how to pods communite with each other, 
+let's say you have a PODA in node 1 and PODB in node 2, and I have exec in PODA and do a curl to PODB IP by default k8s allow, what is happenng in the background how does hte podA know about podB
+
+what all service types are there in k8s
+-ingress and what other?
+
+let's say you created a microservice, what we have to do to make the mirocservice accessble from outside
+
+
+
+terraform------------------
+how do you create 100 vms in terrafrom, do you execute the terrafrom command 100 times?
+how does terraform know that it has to create  'n' Vms
+
+
+argoCD--------------------
+how do you configure argocd to in multiple clusters, like if I have 10 clusters, instead of 10 argocd's can we have 1 argoCD?
+how to do that?
+
+
+GoLang-------------
+what is thread
+what is a channel
+what is a go routine
+
+
+first coding question
+first do that wihtout go routines print all the even and odd numbers
+and make the even fucntion and odd function communite to each other and print the numbers sequentially with go routines
+
+second coding question
+input aaabbaddd
+output a3b2a1d3
+
