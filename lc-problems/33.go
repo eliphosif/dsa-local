@@ -4,10 +4,18 @@ func Search(nums []int, target int) int {
 
 	pivot := FindPivot(nums)
 
-	leftArraySearch := binarySearchPivot(nums, 0, pivot, target)
-	if leftArraySearch != -1 {
-		return leftArraySearch
+	if pivot == -1 {
+		return binarySearchPivot(nums, 0, len(nums)-1, target)
 	}
+
+	if target == nums[pivot] {
+		return pivot
+	}
+
+	if target >= nums[0] {
+		return binarySearchPivot(nums, 0, pivot, target)
+	}
+
 	return binarySearchPivot(nums, pivot+1, len(nums)-1, target)
 }
 
@@ -30,7 +38,7 @@ func FindPivot(nums []int) int {
 		}
 	}
 
-	return start
+	return -1
 }
 
 func binarySearchPivot(nums []int, start int, end int, target int) int {
