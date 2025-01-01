@@ -53,7 +53,7 @@ func main() {
 		fmt.Println(problems.SplitArray(splitArrayInput, 2))
 	*/
 
-	inputCountCharecters := "aaabbadddw"
+	inputCountCharecters := "aaabbaddddw"
 	fmt.Println(interview.CountCharecters(inputCountCharecters))
 
 }

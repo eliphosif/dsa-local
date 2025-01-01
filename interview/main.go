@@ -1,6 +1,9 @@
 package interview
 
-import "fmt"
+import (
+	"fmt"
+	"strings"
+)
 
 /*
 	input  : aaabbaddd
@@ -8,7 +11,12 @@ import "fmt"
 */
 
 func CountCharecters(input string) string {
-	output := ""
+
+	if len(input) == 0 {
+		return ""
+	}
+
+	var output strings.Builder
 	currentChar := input[0]
 	currentCharCount := 1
 
@@ -17,13 +25,13 @@ func CountCharecters(input string) string {
 		if input[i] == currentChar {
 			currentCharCount++
 		} else {
-			output = output + fmt.Sprintf("%v%v", string(currentChar), currentCharCount)
+			output.WriteString(fmt.Sprintf("%v%v", string(currentChar), currentCharCount))
 			currentChar = input[i]
 			currentCharCount = 1
 		}
 	}
 
-	output = output + fmt.Sprintf("%v%v", string(currentChar), currentCharCount)
+	output.WriteString(fmt.Sprintf("%v%v", string(currentChar), currentCharCount))
 
-	return output
+	return output.String()
 }
