@@ -31,6 +31,8 @@ what all service types are there in k8s
 
 let's say you created a microservice, what we have to do to make the mirocservice accessble from outside
 
+and let's say you want to restrict podA talking to podB, how to do that
+
 
 
 terraform------------------
