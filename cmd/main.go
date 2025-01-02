@@ -57,6 +57,6 @@ func main() {
 		inputCountCharecters := "aaabbaddddw"
 		fmt.Println(interview.CountCharecters(inputCountCharecters))
 	*/
-	fmt.Println(interview_problems.IsCircular())
+	fmt.Println(interview_problems.IsCircularUsingMap())
 
 }

@@ -29,7 +29,12 @@ func CreateList() *Node {
 	return node1
 }
 
-func IsCircular() bool {
+/*
+this is the solution i gave in interview
+although I have not completed the code fully
+so this is time complexcity O(n) space complextiy O(n)
+*/
+func IsCircularUsingMap() bool {
 
 	head := CreateList()
 
@@ -46,4 +51,33 @@ func IsCircular() bool {
 
 	return false
 
+}
+
+/*
+actual expected answer
+time complexcity O(n) space complextiy O(1)
+
+	This code defines a linked list and checks if it is circular using the Floyd's Cycle-Finding Algorithm
+	(also known as the Tortoise and Hare algorithm).
+	The isCircular function returns true if the linked list is circular and false otherwise.
+	The main function creates a circular linked list and tests the isCircular function.
+*/
+func IsCircularFloydCycleFindingAlgorithm(head *Node) bool {
+	if head == nil {
+		return false
+	}
+
+	slow := head
+	fast := head
+
+	for fast != nil && fast.Next != nil {
+		slow = slow.Next
+		fast = fast.Next.Next
+
+		if slow == fast {
+			return true
+		}
+	}
+
+	return false
 }
