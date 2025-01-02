@@ -1,7 +1,7 @@
 package main
 
 import (
-	interview_problems "dsa-local/interview/problems"
+	interview_problems "dsa-local/interview/f5/RP1031468/problems"
 	"fmt"
 )
 
