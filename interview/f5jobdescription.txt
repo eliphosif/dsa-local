@@ -1,0 +1,112 @@
+https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Software-Engineer--based-in-Hyderabad-_RP1031468-1
+
+Software Engineer (based in Hyderabad)
+Apply
+remote type
+Hybrid
+locations
+Hyderabad
+time type
+Full time
+posted on
+Posted 15 Days Ago
+job requisition id
+RP1031468
+At F5, we strive to bring a better digital world to life. Our teams empower organizations across the globe to create, secure, and run applications that enhance how we experience our evolving digital world. We are passionate about cybersecurity, from protecting consumers from fraud to enabling companies to focus on innovation. 
+ 
+
+Everything we do centers around people. That means we obsess over how to make the lives of our customers, and their customers, better. And it means we prioritize a diverse F5 community where each individual can thrive.
+
+Role Overview:
+
+This position is responsible for working on a variety of technical problems of moderate scope & complexity. Designs, codes, tests under general supervision. Collaborate with peers under the direction of technical leads on assigned project teams. This job requires solid scripting and programming skills with a good understanding of software programming best practices. The Software Engineer III will maintain and manage Automation Frameworks for software and systems, and all related activities
+ 
+
+Sounds interesting? Read on!
+
+What You’ll Do:
+
+Assist with Test Automation pipelines and support to maintain the test automation frameworks.
+
+Assist the development, analyze and maintain tools that support and automate processes for hardware or software product release.
+
+Compile and assemble software from source code to build deliverables such as product ISO images and product upgrades
+
+Works with others to implement process improvements.
+
+Works with development engineers to correct build errors.
+
+Responsible for upholding F5’s Business Code of Ethics and for promptly reporting violations of the Code or other company policies.
+
+What You’ll Bring:
+
+Minimum of 5 – 10 years of related experience with a Bachelor’s degree or equivalent work experience.
+
+Solid knowledge and experience with DevOps, network and web technologies
+
+Knowledge of  programming languages like Python and AWS, Azure cloud technologies will be an added advantage.
+
+3+ years programming experience preferably in Python/GoLang.
+
+1-2 years of experience in Linux administration.
+
+2 years of experience on Kubernetes and Docker.
+
+Knowledge on Virtualization is a plus.
+
+Knowledge on Ansible is a plus.
+
+Analytic / trouble-shooting skills.
+
+Knowledge on Terraform is a plus.
+
+Knowledge on Cloud technologies is a plus.
+
+3 - 5 years programming experience preferably in a software language that supports F5 product line
+
+3 - 5 years product development experience in embedded operating systems
+
+Excellent analytic / troubleshooting and debugging skills
+
+Successfully manage ambiguity in work.
+
+Demonstrated excellence in written and verbal communications
+
+Able to collaborate and thrive in a fast-paced high-performance environment
+
+Demonstrates emerging leadership qualities. Serves as de facto lead in small group interaction.
+
+Can design and implement new functionality in multiple feature areas, while developing subject matter expertise in at least one.
+
+Duties are performed in a normal office environment while sitting at a desk or computer table. 
+
+Duties require the ability to utilize a computer, communicate over the telephone, and read printed material.
+
+What You’ll Get:
+
+Hybrid working mode
+
+Career growth and development opportunities  
+
+Recognitions and Rewards
+
+Employee Assistance Program
+
+Competitive pay, comprehensive benefits, and cool perks
+
+Culture of Giving Back
+
+Dynamic Diversity & Inclusion Interest Groups
+
+Apply if you believe your own unique capabilities can contribute to the success of this role and our organization!
+ 
+
+#LI-LL1
+
+The Job Description is intended to be a general representation of the responsibilities and requirements of the job. However, the description may not be all-inclusive, and responsibilities and requirements are subject to change.
+
+Please note that F5 only contacts candidates through F5 email address (ending with @f5.com) or auto email notification from Workday (ending with f5.com or @myworkday.com).
+
+Equal Employment Opportunity
+
+It is the policy of F5 to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical, or mental disability, marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws. This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination.  F5 offers a variety of reasonable accommodations for candidates. Requesting an accommodation is completely voluntary. F5 will assess the need for accommodations in the application process separately from those that may be needed to perform the job. Request by contacting accommodations@f5.com.

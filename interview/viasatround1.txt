@@ -1,3 +1,14 @@
+ 
+Viasat Zoom Interview Call Letter - 26 Nov 2024 @ 1:30 PM
+Senior Software Engineer - GoLang, Python, Microservices (2024-3334)
+Job ID: 2024-3331 
+Job Title: Senior Software Engineer - Python, GoLang, KVM
+Job Discription:  https://careers.viasat.com/jobs/3335?lang=en-us
+
+interviewr: anbuvenkatesh annamailai
+
+--------------------------------------------------------------------------------------------------------------
+
 Write a function to generate a unique string of the format CCC-CCYY-XXXX, where CCC-CC is a constant, YY represents a two digit number and XXXX represents a four character alpha-numeric string.
 Constraints:
 - 0 <= Y <= 9 

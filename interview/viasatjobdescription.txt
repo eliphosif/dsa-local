@@ -1,0 +1,79 @@
+https://careers.viasat.com/jobs/3335?lang=en-us
+
+Back
+Senior Software Engineer - Python, Microservices
+Hyderabad, India; Chennai, India
+Engineering
+Regular
+None
+Indian Citizenship or Valid Work Permit
+3335
+mail_outline
+Get future jobs matching this search
+
+or
+Job Description
+About us
+
+One team. Global challenges. Infinite opportunities. At Viasat, we’re on a mission to deliver connections with the capacity to change the world. For more than 35 years, Viasat has helped shape how consumers, businesses, governments and militaries around the globe communicate. We’re looking for people who think big, act fearlessly, and create an inclusive environment that drives positive impact to join our team.
+
+
+What you'll do
+
+Software and Platforms is a central function to Viasat that sits at the core of our business and focuses on innovative technology development and engineering. The team maintains a center of excellence for SW and platform technology and related innovation, translating market needs into products and services to enable market development and ensure they are constantly pushing the boundaries of satellite based services.
+
+ 
+
+We are looking for members of a product team that can design, write, and deliver software services to our commercial aircraft and maritime vessels.
+
+ 
+
+As a member of this team, you will influence new designs, architectures, and methods for large-scale distributed systems. As part of our DevOps model, you will develop the service and own it from cradle to grave.
+
+
+The day-to-day
+
+5-8 years of experience with good knowledge of computer science fundamentals
+Strong working knowledge of Python on a Linux platform.
+Working knowledge of Microservices
+Experience with Docker, Kubernetes container orchestration.
+Experience with messaging middleware like RabbitMQ.
+Experience in developing RESTful services.
+Experience in KVM configuration
+Experience in Migration of session management to AISM KVM
+Experience with Database technologies in SQL or NoSQL, Query optimization, Fault tolerance
+Familiarity with cloud computing concepts.
+Familiarity with Golang framework
+Systematic problem-solving approach, coupled with a strong sense of ownership and drive.
+Ability to work on distributed remote agile teams with a high degree of self-motivation and ability to work independently.
+Excellent verbal and written communication abilities. You will be required to communicate both verbally and in written form with remote international teams very frequently.
+Broad range of technology interests across different fields including computer and system architecture, web applications, Scalability, performance analysis, distributed systems design, and integration.
+Embracing the DevOps philosophy of product development, in addition to your design development activities you are also required to provide operational support of the post-production deployment.
+Bachelor’s degree in computer science, computer engineering or electrical engineering or equivalent technical background and experience.
+
+What you'll need
+
+Experience Requirement: 5-8 years
+Travel Requirement: Up to 10%
+
+What will help you on the job
+
+Experience with AWS or Azure services.
+Experience in developing applications using Spring Boot
+Working experience with networking products.
+Working knowledge of Linux Kernel.
+Experience in designing and implementing automated software component and integration tests.
+Continuous Integration & Deployment (CI/CD) training or experience.
+Prior working experience in a DevOps team is a plus.
+ 
+
+#LI-Hybrid
+
+
+EEO Statement
+
+Viasat is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, ancestry, physical or mental disability, medical condition, marital status, genetics, age, or veteran status or any other applicable legally protected status or characteristic. If you would like to request an accommodation on the basis of disability for completing this on-line application, please click here.
+
+ 
+
+Apply

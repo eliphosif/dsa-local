@@ -1,5 +1,13 @@
+https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Software-Engineer--based-in-Hyderabad-_RP1031468-1
 
-from the girl----------------------
+16th December 2024, Monday
+10:30PM India Time
+
+Saloni Daga – Engineer III, Software
+Jimmy Wang – Principal Engineer
+----------------------------------------------------------------------
+
+first half hour from Saloni Daga----------------------
 
 desing a tiny URL system
 dont we need load balencer?
@@ -7,9 +15,10 @@ dont we need load balencer?
 what are all the KPIs that you keep for refernece
 
 
-from the guy--------------
+second half hour from Jimmy Wang--------------
 
 when you type url in hte browser what all will happen?
+expecting more on the DNS resolution and hand shake and more on (OSI) model
 
 
 give an linked list you have to find if it's cirular linkedlist or not
