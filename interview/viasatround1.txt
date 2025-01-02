@@ -1,0 +1,31 @@
+Write a function to generate a unique string of the format CCC-CCYY-XXXX, where CCC-CC is a constant, YY represents a two digit number and XXXX represents a four character alpha-numeric string.
+Constraints:
+- 0 <= Y <= 9 
+- X includes A to Z and 0 to 9 
+- Disallowed characters in XXXX are “I", “O", "Q" and "Z 
+- Not allowed to store entire list of generated strings. Memory complexity of O(1) is allowed.
+ 
+ 
+ 
+ 
+what all are allowed in the map key
+ 
+what is struct inside a struct called
+
+how to make a fucntion to run only once : sync once 
+
+what is the difference between make and new
+ 
+sort Interface
+we have a slice of objects, and we have to sort the slice using a field of the object lexicographically, how do do that 
+ 
+ 
+ 
+what is wait gruops
+ 
+can we have multiple init()?
+what is the scope of init() pakage? file? module?
+ 
+SOLID principles, what are the design patterns
+ 
+what is the debugger name for the golang
