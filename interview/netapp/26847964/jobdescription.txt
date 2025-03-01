@@ -1,0 +1,101 @@
+Software Engineer (Golang)
+Bangalore, India Office (BANGALORE)
+
+Job Description
+Job Summary
+As a Software Engineer, you will be part of a team of skilled Application engineers accountable for participating in development, debugging, maintenance, and testing. As part of the Research and Development function, system software engineers focus on enhancements to existing products and new product development, needing a deep working knowledge of both systems and Kubernetes
+
+Job Requirements
+•    Strong programming skills in and Golang technologies, Java, .Net core development using microservices architecture , docker and Kubernetes.
+•    Strong in Data Structures and algorithms.
+•    Expertise in cloud technologies, containers, orchestration frameworks like Kubernetes. Experience in developing services in any of the major cloud providers preferred.
+•    Full Stack developer preferred.
+•    Should have a good storage background and understanding of concepts around the same. 
+•    Should be very versatile with Windows/UNIX OS , its technologies and understanding. 
+•    Good understanding in REST API design and implementation. 
+•    Knowledge one of databases (SQL, Oracle or HANA), and UI/UX design 
+•    Should have participated in all phases of the product development cycle from Requirement understanding, Design, through Implementation and Test design.
+•    Should have attained experience and knowledge in solving complex problems.
+•    Prior experience in developing high scale and performant systems.
+•    Should have strong aptitude to learn new technologies.
+•    Should be a good team player.
+ 
+
+Education
+A minimum of 5 years of experience is mandatory, while 5 to 8 years of experience is highly desirable.
+A Bachelor of Science Degree in Electrical Engineering or Computer Science, a Master's Degree, a PhD, or equivalent experience is required..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NetApp logo
+Hello Shiva Kishore, 
+ 
+Thank you for your interest in NetApp, we look forward to the opportunity to learn more about you. 
+ 
+We would like to invite you for an onsite interview for the position of Software Engineer (Golang), requisition #129079. 
+ 
+For your convenience, the interview details are listed below. Please confirm your participation by clicking the "Confirm Agenda" button and read the interview preparation resources linked below. 
+ 
+Agenda:  
+
+Onsite Interview- Round 1
+28 Feb 2025 | 02:00 PM - 02:45 PM Asia/Calcutta (IST)
+Sharanya Srinivasa
+Room: cr-NBLR-1.3 Ivy (4)
+Location: 40/C, ITPL Main Rd, KEB Colony, Hoodi, Bengaluru, Karnataka 560048
+ 
+
+Job Description:  
+https://app.eightfold.ai/careers/job?domain=netapp.com&pid=26847964
+  
+
+Below are a couple of resources we’ve designed to help you prepare for your interview: 
+A dedicated site that provides more information about NetApp and what you can expect before, during and after your interview. You can view the site here.  
+An interview preparation toolkit that you can view here 
+Please arrive early for your Onsite Interview in order to assure time to park and time to arrive in the lobby of our offices. 
+ 
+Please do not forward your interview invite to another email address as it may cause system issues. 
+ 
+If you wish to reschedule / cancel your interview, feel free to reply directly to this email. 
+
+The team are excited to meet you and explore your skills, experience, and potential contributions in more depth during the interview.  
+ 
+Best wishes for your upcoming interview! 
+
+
+Job Details
+Briefcase icon	Software Engineer (Golang)
+Building icon	NetApp
+calendar icon	Meeting Agenda
+Onsite Interview- Round 1
+Sharanya Srinivasa
+28 Feb 2025
+02:00 PM - 02:45 PM Asia/Calcutta (IST)
+Room : cr-NBLR-1.3 Ivy (4)
+Location : 40/C, ITPL Main Rd, KEB Colony, Hoodi, Bengaluru, Karnataka 560048
+
+Job Details
+Briefcase icon	Software Engineer (Golang)
+Building icon	NetApp
+calendar icon	Meeting Agenda
+Onsite Interview - Round 2
+Shivam Sanju
+28 Feb 2025
+03:00 PM - 03:45 PM Asia/Calcutta (IST)
+Room : cr-NBLR-1.3 Ivy (4)
+Location : 40/C, ITPL Main Rd, KEB Colony, Hoodi, Bengaluru, Karnataka 560048

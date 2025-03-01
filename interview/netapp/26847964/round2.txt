@@ -1,0 +1,72 @@
+
+
+https://app.eightfold.ai/careers/job?domain=netapp.com&pid=26847964
+
+28th Feb 2025, Friday
+03:00PM to 04:00PM India Time
+
+Shivam Sanju– MTS2
+----------------------------------------------------------------------
+
+second hour from Shivam Sanju in a conference room 3rd floor 
+
+The interviewer explained that the first 40 minutes would be dedicated to Data Structures and Algorithms (DSA) questions, followed by 20 minutes of Golang questions.
+
+I struggled with both sets of questions. I had no idea how to solve the problems presented to me. I attempted to use brute force solutions for both problems, but the interviewer was not satisfied with my approach. As the time approached 40 minutes, he decided not to proceed with the Golang questions and asked me to leave. There were still 20 minutes remaining, but since I couldn't solve the DSA questions, the interview ended prematurely.
+
+
+----------------------------------------------------------------
+
+
+tell me about yourself
+
+DSA questoin:
+
+Problem Statement:
+You are given an array of city names, e.g., []string{"Delhi", "Mumbai", "Hyderabad", "Bangalore", ...}. There is a service that provides the temperature for a given city when you call an API with the city name as input.
+
+The temperature ranges are categorized as follows:
+
+Cold: Less than 10 degrees
+Moderate: Between 10 and 30 degrees
+Hot: Greater than 30 degrees
+Your task is to reorder the array of city names based on their temperatures in ascending order. The time complexity should be O(n) and the space complexity should be O(1).
+
+Additional Requirements:
+API Call Simulation: Assume you have a function getTemperature(city string) int that returns the temperature for a given city.
+Output: The output should be the reordered array of city names based on their temperatures.
+Example:
+Input: []string{"Delhi", "Mumbai", "Hyderabad", "Bangalore"} 
+Assume the temperatures are: Delhi: 35, Mumbai: 25, Hyderabad: 15, Bangalore: 5 
+Output: []string{"Bangalore", "Hyderabad", "Mumbai", "Delhi"}
+
+ 
+
+//above quesoitn is extension of 
+The problem you're referring to is known as the Dutch National Flag problem, proposed by Edsger Dijkstra. Here's the full problem statement:
+
+Dutch National Flag Problem
+Given an array containing only 0s, 1s, and 2s, the task is to sort the array in linear time and constant space. The sorted array should have all 0s first, followed by all 1s, and then all 2s.
+
+Example:
+Input: [0, 1, 2, 0, 2, 1, 2]
+Output: [0, 0, 1, 1, 2, 2, 2]
+
+
+
+second DSA question
+Problem Statement:
+You are given a singly linked list. Your task is to determine if the linked list is a palindrome. The solution should have a space complexity of O(1)
+ 
+
+Additional Requirements:
+Definition: A linked list is a palindrome if the sequence of values is the same forward and backward.
+Output: Return true if the linked list is a palindrome, otherwise return false.
+Example:
+Input: 1 -> 2 -> 3 -> 2 -> 1
+Output: true
+
+Input: 1 -> 2 -> 3 -> 4 -> 5
+
+
+

@@ -1,0 +1,43 @@
+
+https://app.eightfold.ai/careers/job?domain=netapp.com&pid=26847964
+
+28th Feb 2025, Friday
+02:00PM to 03:00PM India Time
+
+Sharanya Srinivasa– MTS3 
+----------------------------------------------------------------------
+
+first hour from Sharanya Srinivasa in a conference room 3rd floor
+
+The interviewer began by asking a few technical questions about the database I use and my experience with it. Then, she moved on to two DSA questions. I managed to solve the first one, but I got stuck on the second, which was a string problem. She noticed my struggle and kindly told me it was okay to leave the question.
+
+----------------------
+
+
+
+offline interview at netapp Hoodi
+
+questions:
+
+tell me about yourself
+
+given a array of integers
+height []int{1,8,2,3,4,8,6,2,7}
+find max amount of water
+
+
+
+what is nginx?
+why we need api gateway?
+what is the use?
+
+can you explain any design pattern,  
+
+
+give a string input:
+s= "    a   good example   "
+output :
+example good a 
+
+
+remove all the extra spaces and reverse the word order in the string
